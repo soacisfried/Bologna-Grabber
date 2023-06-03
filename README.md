@@ -1,6 +1,11 @@
 # Bologna-Grabber
 All Creds to Blank Grabber<3
 
+!CHECK RELEASES TO DOWNLOAD!
+
+**Join stayfried Discord!**
+- https://discord.gg/MJ4pnyxae8
+
 # Features
 - GUI Builder.
 - UAC Bypass.
