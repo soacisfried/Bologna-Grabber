@@ -29,3 +29,6 @@ All Creds to Blank Grabber<3
 - Captures Webcam Image.
 - Sends All Data Through Discord Webhooks.
 (...more)
+
+# How to Use
+Just Open "Bologna.bat"!
