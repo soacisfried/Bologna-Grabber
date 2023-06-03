@@ -1,6 +1,4 @@
 # Bologna-Grabber
-All Creds to Blank Grabber<3
-
 !CHECK RELEASES TO DOWNLOAD!
 
 **Join stayfried Discord!**
